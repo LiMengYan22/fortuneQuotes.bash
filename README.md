@@ -1,9 +1,9 @@
-# TERMUX
 **TERMUX** REPO CLEAN FILES.. 
 
+<hr>
 
-• • FORTUNE • •
-(random quotes)
+## • • FORTUNE • •
+*(random quotes)*
  ```
 $ mkdir fortune
 $ cd fortune
