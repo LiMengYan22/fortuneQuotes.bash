@@ -2,7 +2,7 @@
 
 <hr>
 
-##  FORTUNE 
+##  FORTUNE QUOTES
 *(random quotes)*
  ```
 $ mkdir fortune
